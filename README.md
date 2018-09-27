@@ -1,4 +1,4 @@
-# performance_measures-for-Machine-learning-algorithm
+# performance measures for Machine learning algorithm
 This repo demonstrates how to evaluate the performance of a model via Accuracy, Precision, Recall & F1 Score metrics in ML and provides a brief explanation of the “Confusion Metrics”. In this experiment, I have used Two-class Boosted Decision Tree Algorithm and my goal is to predict the survival of the passengers on the Titanic.
 
 Once you have built your model, the most important question that arises is how good is your model? So, evaluating your model is the most important task in the data science project which delineates how good your predictions are.
